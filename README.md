@@ -1,4 +1,6 @@
-# DAT158_ML-Assignment_2
+## DAT158_ML-Assignment_2
+
+Requirements:
 
 You should work in groups of 2-4 students.
 
